@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+}
+
+#banner {
+    background-color: beige;
+    padding-left: 10px;
+}
+
+#nav a {
+    text-decoration: none;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
