@@ -14,3 +14,13 @@ body {
     background-color: black;
     color: white;
 }
+
+#footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.grid-container-3-col {
+
+}
